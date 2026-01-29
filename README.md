@@ -93,5 +93,3 @@ EEG_Classification_Clustering.ipynb
 
 This project successfully demonstrates how to preprocess, filter, and extract features from EEG data for motor imagery tasks. **CSP** is the most effective method for feature extraction, while **MLP Neural Networks** provide the best classification results. Unsupervised methods like **DBSCAN** and **K-Means** offer insights into data clustering and the separability of different motor imagery tasks.
 
-For detailed information and instructions, please refer to the [Project Report](EEG_Motor_Imagery_Classification_and_Clustering_Report.pdf).
-
